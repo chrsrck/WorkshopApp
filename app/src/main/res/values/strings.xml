@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workshop App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="toast_message">HI!</string>
+    <string name="special_text">HI!</string>
+</resources>
